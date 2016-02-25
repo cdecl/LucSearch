@@ -1,0 +1,14 @@
+<publishData>
+  <publishTarget publishUrl="E:\public_html\LucSearchAPI\">
+    <file relUrl="bin/LucSearchLib.pdb" publishTime="08/08/2012 23:01:25" />
+    <file relUrl="bin/LucSearchLib.dll" publishTime="08/08/2012 23:01:26" />
+    <file relUrl="bin/LucSearchAPI.dll" publishTime="08/08/2012 23:08:45" />
+    <file relUrl="bin/LucSearchAPI.pdb" publishTime="08/08/2012 23:08:44" />
+    <file relUrl="bin/install.bat" publishTime="08/07/2012 01:08:33" />
+    <file relUrl="Web.config" publishTime="08/08/2012 19:43:48" />
+    <file relUrl="Search.svc" publishTime="08/03/2012 14:53:41" />
+    <file relUrl="query.html" publishTime="08/08/2012 22:39:07" />
+    <file relUrl="bin/Lucene.Net.dll" publishTime="07/25/2012 14:08:34" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="08/01/2012 08:04:35" />
+  </publishTarget>
+</publishData>
