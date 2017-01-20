@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LuceneIndex>
+  <Source ConnectionString="Driver={SQL Server};Server=localhost;Database=;Uid=;Pwd=#$;">
+    <Query>select * from tablename</Query>
+  </Source>
+
+  <Document>
+  	<Add Name="실" Store="Yes" Index="ANALYZED" />
+  	<Add Name="팀" Store="Yes" Index="ANALYZED" />
+  	<Add Name="업무구분" Store="Yes" Index="ANALYZED" />
+    <Add Name="업무명" Store="Yes" Index="ANALYZED" />
+    <Add Name="업무일" Store="Yes" Index="ANALYZED" />
+    <Add Name="성명" Store="Yes" Index="ANALYZED" />
+    <Add Name="업무량" Store="Yes" Index="NOT_ANALYZED" />
+    <!-- ... -->
+  </Document>
+</LuceneIndex>
+
